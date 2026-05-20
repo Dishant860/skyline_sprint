@@ -73,9 +73,6 @@ Assets/
 
 ### Setup
 1. Clone the repository
-   ```bash
-   git clone https://github.com/Dishant860/YOUR_3DUI_REPO
-   ```
 2. Open in Unity Hub
 3. Install required packages via Package Manager
 4. Connect Meta Quest via USB
